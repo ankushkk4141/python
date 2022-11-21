@@ -1,0 +1,49 @@
+Let's start with some theory and basics first...
+
+What is Python ?
+Python is a simple and easy to understand programming language.
+Python is a general purpose high level programming language.
+Python is recommended as first programming language for beginners.
+
+Usage of Python ?
+For developing Desltop Applications
+For developing Web Applications
+For developing developing Games
+For developing Machine Learning
+For developing IOT & list goes on & on
+
+Features of Python ?
+Simple & easy to learn
+  Python is a simple programming language. When we read Python program,we can feellike reading english statements.
+Freeware and OpenSource
+  We can use Python software without any licence and it is freeware.
+Platform Independent
+  Once we write a Python program,it can run on any platform without rewriting once again.
+  Internally PVM is responsible to convert into machine understandable form
+Portability
+  Python programs are portable. ie we can migrate from one platform to anotherplatform very easily. 
+  Python programs will provide same results on any paltform.
+Dynamically Typed
+  In Python we are not required to declare type for variables. Whenever we are assigning the value, based on value, type will be allocated automatically.Hence Python is considered as dynamically typed language.
+
+Limitations of Python:
+  Performance wise not up to the mark because it is interpreted language.
+  Not using for mobile Applications.
+
+Modules
+  A module is a file containing code written by someone else (usually) which can be imported and used in our programs (similar to library)
+
+Pip
+  Pip is the package manager for python you can use pip to install a module on your system
+
+Types of modules
+ There are two types of modules
+ 1. Built in modules - preinstall in python
+ 2. External modules - Need to install using pip
+
+ How to writes comment in python?
+
+ There are two types of comments in python 
+
+ 1. Single line comment - written using '#'
+ 2. Multiline comments - written using '''Comments'''   (See Code file for more clarity)
