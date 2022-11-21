@@ -60,3 +60,16 @@ Rules:
   it should not start with digit
   we can't use reserved words as identifier, for e.g def=10 is not allowed
   $ symbolis not allowed in python.
+
+Reserved Words
+  In Python some words are reserved to represent some meaning or functionality.
+  Such types of words are called reserved words.
+    There are 33 reserved words available in Python.
+      true, false, none
+      and, or, nor, is
+      if, else, elif
+      while, for, break, continue, return, yield, in
+      try, except, finally, raise assert
+      import, from, as, class, def, pass, global, nonlocal, lambda, del, with
+   All Reserved words in Python contain only alphabet symbols
+   Except the following True, False & None reserved words, all contain only lower case alphabet symbols
