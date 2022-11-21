@@ -47,3 +47,18 @@ Types of modules
 
  1. Single line comment - written using '#'
  2. Multiline comments - written using '''Comments'''   (See Code file for more clarity)
+ 
+Identifiers
+A Name in Python Program is called Identifier.
+It can be Class Name OR Function Name OR Module Name OR Variable Name.
+
+The only allowed characters in Python are
+  alphabetical symbols (either lowercase or upper case)
+  digits (0 to 9)
+  underscore symbol (_)
+Rules:
+  alphabetical symbols (either lowercase or upper case)
+  if starts with underscore it;s private
+  it should not start with digit
+  we can't use reserved words as identifier, for e.g def=10 is not allowed
+  $ symbolis not allowed in python.
