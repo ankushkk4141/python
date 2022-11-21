@@ -38,15 +38,13 @@ Pip
 
 Types of modules
  There are two types of modules
- 1. Built in modules - preinstall in python
- 2. External modules - Need to install using pip
+    Built in modules - preinstall in python
+    External modules - Need to install using pip
 
- How to writes comment in python?
-
- There are two types of comments in python 
-
- 1. Single line comment - written using '#'
- 2. Multiline comments - written using '''Comments'''   (See Code file for more clarity)
+How to writes comment in python?
+  There are two types of comments in python 
+    Single line comment - written using '#'
+    Multiline comments - written using '''Comments'''   (See Code file for more clarity)
  
 Identifiers
 A Name in Python Program is called Identifier.
